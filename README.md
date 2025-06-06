@@ -116,6 +116,7 @@ Italiannis | Restaurantes | ?
 La buena tierra | Restaurantes | 5811
 Las Brasas | Restaurantes | 5812
 Pollo Feliz Apodaca | Restaurantes | 5812
+Rancho el 17 | Restaurantes | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
 Taquería Arandas | Restaurantes | ?
 Vips | Restaurantes | 5812 
 William shakes | Restaurantes | ?
@@ -128,6 +129,8 @@ Parisina | Ropa | 5651
 Promoda | Ropa | 5621
 Shasa | Ropa | ?
 Shein | Ropa | 5651 | Si te lo marca como "General purchases" los contactas y aplican el cashback
+||
+Afore Móvil | Servicios Financieros | 4814 | Compra tarjeta de regalo Amazon con Ganahorro |
 ||
 Piñatas Los Arcos | Souvenirs | 5947
 ||
@@ -165,6 +168,3 @@ AirBnb | Viajes | 5399
 ||
 JAPAC En línea | Water | 4900 | Compañía de Agua de Culiacán
 ||
-Rancho el 17 | Restaurantes | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
-| Servicios Financieros | Afore Móvil | 4814 | Compra tarjeta de regalo Amazon con Ganahorro |
-
