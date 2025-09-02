@@ -73,11 +73,13 @@ Sanborns (web) | Departamentales | 5311
 Suburbia | Departamentales | 5311
 ||
 Platzi Expert | Educación | 8299
+Udemy | Educación | 8999
 ||
 App Store & ITunes (suscripción) | Electrónicos | 5818
 Claude.ai | Electrónicos | 5734
 NeWWW | Electrónicos | 4814
 Xbox | Electrónicos | ? | En línea
+OpenAI | Electrónicos | 5734
 ||
 Bitcodes.co | Electronics and software | 5816
 Cyberpuerta | Electronics and software | ?
@@ -112,6 +114,7 @@ Home Depot | Home and DIY | 5311
 ||
 Joy Mia Amor Palma | Jewelry | 5944
 ||
+Marchand | Libros y papelería | 5943
 Sótano | Libros y papelería | 5942
 ||
 CFE | Luz | 4900 | Pagado desde app
@@ -139,9 +142,10 @@ Las Brasas | Restaurantes | 5812
 Pollo Feliz Apodaca | Restaurantes | 5812
 Rancho el 17 | Restaurantes | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
 Taquería Arandas | Restaurantes | ?
+Twin Peaks | Restaurantes | 5812
 Vips | Restaurantes | 5812 
 William shakes | Restaurantes | ?
-Wingstop | Restaurantes | ?
+Wingstop | Restaurantes | 5812
 ||
 Cuidado con el perro | Ropa | ?
 Dportenis | Ropa | 5661
@@ -181,6 +185,7 @@ Amazon Prime | Suscripciones | 4899
 Netflix | Suscripciones | 4899
 Scribd | Suscripciones | 4899
 Spotify | Suscripciones | 4816
+Tidal | Suscripciones | 5815 
 Youtube Premium | Suscripciones | 5818
 ||
 Didi Taxi | Taxi | 4121
