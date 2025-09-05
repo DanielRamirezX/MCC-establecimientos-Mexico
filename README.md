@@ -9,7 +9,8 @@ https://www.reddit.com/r/MexicoFinanciero/comments/16u0f87/busco_una_lista_de_mc
 ## Tabla
 Comercio | Categoría | MCC | Nota
 -------- | --------- | --- | ----
-Aeroméxico | Airline tickets | 3076
+Aeroméxico | Aerolíneas | 3076
+Vivaaerobus | Aerolíneas | ? | Didicard cashback
 ||
 Tulotero | Apuestas y loterías | 4816
 ||
@@ -78,8 +79,8 @@ Udemy | Educación | 8999
 App Store & ITunes (suscripción) | Electrónicos | 5818
 Claude.ai | Electrónicos | 5734
 NeWWW | Electrónicos | 4814
-Xbox | Electrónicos | ? | En línea
 OpenAI | Electrónicos | 5734
+Xbox | Electrónicos | ? | En línea
 ||
 Bitcodes.co | Electronics and software | 5816
 Cyberpuerta | Electronics and software | ?
@@ -123,6 +124,7 @@ Cinépolis | Movie theaters | 7832
 ||
 EnvíosPerros | Otro | 4214
 Kidzania Ticket Online | Otro | 7032
+Ross dress for less | Otro | 5310
 ||
 Parco | Parking lots | 7523
 ||
@@ -131,6 +133,7 @@ UnDosTres | Payments | 4814
 Barril 23 | Restaurantes | ?
 Bisquets Obregón | Restaurantes | 5812
 Casa de Toño | Restaurantes | 5812
+Café Kowlaan | Restaurantes | ?
 Chilis | Restaurantes | 5812
 Cotorritos | Restaurantes | ?
 Denny's | Restaurantes | ?
@@ -151,6 +154,7 @@ Cuidado con el perro | Ropa | ?
 Dportenis | Ropa | 5661
 Flexi | Ropa | 5661
 Lentes Galileo (Ben & Frank) | Ropa | 5961
+Men's Fashion | Ropa | 5611
 Parisina | Ropa | 5651
 Promoda | Ropa | 5621
 Shasa | Ropa | ?
@@ -193,6 +197,7 @@ Uber | Taxi | 4121
 ||
 Movistar (app) | Telecommunication services | 4814
 Telmex (app) | Telecommunication services | 4814
+TotalPlay | Telecommunication services | ? | LikeU dió el 4% 
 ||
 Reino de Magos | Tiendas para niños | 5945 | Juegos de mesa y alimentos
 ||
@@ -201,10 +206,13 @@ PaySend | Transferencias | 4829
 Conekta*Drive App | Transporte | 4784
 Conekta*Parco | Transporte | 4784
 Primera Plus | Transportation | 4722
+RTC Las Vegas | Transportation | 4111 | Accesos de bus en su app
 Tarjeta Mi | Transportation | 5966
 Vallarta plus | Transportation | 4111
 ||
 AirBnb | Viajes | 5399
+||
+Supercell store | Videojuegos | ? | Didicard cashback
 ||
 JAPAC En línea | Water | 4900 | Compañía de Agua de Culiacán
 ||
