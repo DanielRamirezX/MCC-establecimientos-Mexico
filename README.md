@@ -90,6 +90,7 @@ WinCDKeys.com | Electronics and software | 5734
 ||
 Boletomovil | Entretenimiento | 5964
 Fever * Candlelight Tri | Entretenimiento | 7922
+Ticketmaster | Entretenimiento | 7996
 TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
 Trotime | Entretenimiento | 7941 | maratones
@@ -150,7 +151,9 @@ Vips | Restaurantes | 5812
 William shakes | Restaurantes | ?
 Wingstop | Restaurantes | 5812
 ||
+Aldo conty | Ropa | 5611
 Cuidado con el perro | Ropa | ?
+Dorothy Gaynor | Ropa | 5661
 Dportenis | Ropa | 5661
 Flexi | Ropa | 5661
 Lentes Galileo (Ben & Frank) | Ropa | 5961
