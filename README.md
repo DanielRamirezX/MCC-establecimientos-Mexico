@@ -213,6 +213,7 @@ RTC Las Vegas | Transportation | 4111 | Accesos de bus en su app
 Tarjeta Mi | Transportation | 5966
 Vallarta plus | Transportation | 4111
 ||
+ADO | Viajes | 4131
 AirBnb | Viajes | 5399
 ||
 Supercell store | Videojuegos | ? | Didicard cashback
