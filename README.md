@@ -18,8 +18,8 @@ Apuestas y loterías | Tulotero | 4816
 Bakeries | Pastelería La Esperanza | 5462
 Beauty | Fraiche | 5977
 Beauty | Studio Frau Mann | 7230
-Car rental | Qeeq | 7512
 Car rental | Hertz web | 3357
+Car rental | Qeeq | 7512
 Celular, TV e internet | GitHub Copilot | 7372
 Celular, TV e internet | Izzi web | 4899
 Celular, TV e internet | Movistar | 5964 | Mercado Pago
@@ -59,7 +59,6 @@ Compras en general | El Palacio de Hierro | 5311
 Compras en general | Paypal | 5399
 Compras en general | Riot | 5399 | LoL RP
 Compras en general | Somos WIM | 5399 | Marca de telefonia digital de AT&T. Utilizan Mercadopago
-Compras en general | Suburbia | 5311
 Compras en general | Suempresa.com | 4816
 Compras en general | Temu | 7399
 Delivery services | DHL | 4215
@@ -143,6 +142,7 @@ Ropa | Shein | 5651 | Si te lo marca como "General purchases" los contactas y ap
 Servicios Financieros | Afore Móvil | 4814 | Compra tarjeta de regalo Amazon con Ganahorro
 Souvenirs | Piñatas Los Arcos | 5947
 Sporting goods | Decathlon | 5941
+Supermercados | 7 Eleven | 5499
 Supermercados | Bodega aurrerá | 5411
 Supermercados | Caffenio | 5812 | Sucursal en Hermosillo
 Supermercados | CarneMart | ?
@@ -159,7 +159,6 @@ Supermercados | Seven eleven | ?
 Supermercados | Soriana | 5411
 Supermercados | Sumesa | 5411
 Supermercados | Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
-Supermercados | 7 Eleven | 5499
 Suscripciones | Amazon Prime | 4899
 Suscripciones | Meli Mas | 5399
 Suscripciones | Netflix | 4899
