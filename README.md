@@ -11,20 +11,28 @@ Para añadir nuevas líneas tienes dos opciones:
 
 ## Índice de Categorías
 
-- [Aerolíneas](#aerolíneas)
-- [Apuestas y loterías](#apuestas-y-loterías)
+<table>
+<tr>
+<td>
+
+- [Aerolíneas](#aerolineas)
+- [Apuestas y loterías](#apuestas-y-loterias)
 - [Bakeries](#bakeries)
 - [Beauty](#beauty)
 - [Car rental](#car-rental)
 - [Celular, TV e internet](#celular-tv-e-internet)
 - [Cine](#cine)
-- [Comida rápida](#comida-rápida)
+- [Comida rápida](#comida-rapida)
 - [Compras en general](#compras-en-general)
 - [Delivery services](#delivery-services)
 - [Departamentales](#departamentales)
-- [Educación](#educación)
+- [Educación](#educacion)
 - [Electronics and software](#electronics-and-software)
-- [Electrónicos](#electrónicos)
+- [Electrónicos](#electronicos)
+
+</td>
+<td>
+
 - [Entretenimiento](#entretenimiento)
 - [Estacionamiento](#estacionamiento)
 - [Farmacias](#farmacias)
@@ -33,12 +41,16 @@ Para añadir nuevas líneas tienes dos opciones:
 - [Gobierno](#gobierno)
 - [Home and DIY](#home-and-diy)
 - [Jewelry](#jewelry)
-- [Libros y papelería](#libros-y-papelería)
+- [Libros y papelería](#libros-y-papeleria)
 - [Luz](#luz)
 - [Otro](#otro)
 - [Payments](#payments)
 - [Productos para Mascotas](#productos-para-mascotas)
 - [Restaurantes](#restaurantes)
+
+</td>
+<td>
+
 - [Ropa](#ropa)
 - [Servicios Financieros](#servicios-financieros)
 - [Souvenirs](#souvenirs)
@@ -47,12 +59,16 @@ Para añadir nuevas líneas tienes dos opciones:
 - [Suscripciones](#suscripciones)
 - [Taxi](#taxi)
 - [Telecommunication services](#telecommunication-services)
-- [Tiendas para niños](#tiendas-para-niños)
+- [Tiendas para niños](#tiendas-para-ninos)
 - [Transferencias](#transferencias)
 - [Transporte](#transporte)
 - [Viajes](#viajes)
 - [Videojuegos](#videojuegos)
 - [Water](#water)
+
+</td>
+</tr>
+</table>
 
 ### Aerolíneas
 Comercio | MCC | Nota
