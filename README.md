@@ -3,184 +3,185 @@ Lista de establecimientos con su MCC asociado al realizar compras con tarjeta.
 (Información confirmada por app Plata card / santander cashback)
 
 ## Contribuciones
-Para añadir nuevas líneas has pull request, o deja tu aporte en:
-https://www.reddit.com/r/MexicoFinanciero/comments/16u0f87/busco_una_lista_de_mcc_merchant_category_codes/
+Para añadir nuevas líneas tienes dos opciones:
+
+1. **Pull Request**: Si haces un pull request, asegúrate de mantener el orden alfabético por categoría y luego por comercio.
+2. **Reddit**: Deja tu aporte en el siguiente hilo:
+   https://www.reddit.com/r/MexicoFinanciero/comments/16u0f87/busco_una_lista_de_mcc_merchant_category_codes/
 
 ## Tabla
-Comercio | Categoría | MCC | Nota
--------- | --------- | --- | ----
-Aeroméxico | Aerolíneas | 3076
-Vivaaerobus | Aerolíneas | ? | Didicard cashback
-Tulotero | Apuestas y loterías | 4816
-Pastelería La Esperanza | Bakeries | 5462
-Fraiche | Beauty | 5977
-Studio Frau Mann | Beauty | 7230
-Qeeq | Car rental | 7512
-Hertz web | Car rental | 3357
-GitHub Copilot | Celular, TV e internet | 7372
-Izzi web | Celular, TV e internet | 4899
-Movistar | Celular, TV e internet | 5964 | Mercado Pago
-Starlink | Celular, TV e internet | 5399 | Si te aparece como ‘Internet’, contacta al servicio al cliente para que te apliquen el cashback.
-Telcel | Celular, TV e internet | 4814
-Telmex | Celular, TV e internet | 4814
-TotalPlay | Celular, TV e internet | 4814
-Cinépolis | Cine | 7832
-Cinépolis Dulcería | Cine | 7832
-Cielito querido café | Comida rápida | 5814
-Burger king | Comida rápida | 5814
-Domino's Pizza | Comida rápida | 5814
-Garabatos | Comida rápida | 5814
-IHOP | Comida rápida | 5814
-KFC | Comida rápida | ?
-Little caesars | Comida rápida | 5814
-Pizza hut | Comida rápida | 5814 | Web y tienda física
-Six flags | Comida rápida | 5814 | Agua
-Sonora Grill | Comida rápida | 5814 
-Subway | Comida rápida | ?
-Sushi tako | Comida rápida | 5814
-Tacos El Pata | Comida rápida | 5814
-Taquearte | Comida rápida | 5814
-Taquería La Palmera | Comida rápida | 5814
-Tim Hortons | Comida rápida | 5814
-Amazon | Compras en general | 4816
-AliExpress | Compras en general | 5199, 5311, 5964
-Bosch en linea | Compras en general | 5399
-Calii | Compras en general | 5399
-Coppel | Compras en general | 5311
-Del sol | Compras en general | 5311
-Deli and light | Compras en general | 5399
-Ebay | Compras en general | 5331
-El Palacio de Hierro | Compras en general | 5311
-Paypal | Compras en general | 5399
-Riot | Compras en general | 5399 | LoL RP
-Suburbia | Compras en general | 5311
-Suempresa.com | Compras en general | 4816
-Temu | Compras en general | 7399
-DHL | Delivery services | 4215
-Rappi | Delivery services | 4121
-Uber eats | Delivery services | 4215
-Sanborns | Departamentales | 5311
-Suburbia | Departamentales | 5311
-Sears | Departamentales | 5311 | Compra en fisico Hermosillo Galerias
-Platzi Expert | Educación | 8299
-Udemy | Educación | 8999
-App Store & ITunes (suscripción) | Electrónicos | 5818
-Claude.ai | Electrónicos | 5734
-NeWWW | Electrónicos | 4814
-OpenAI | Electrónicos | 5734
-Xbox | Electrónicos | ? | En línea
-Bitcodes.co | Electronics and software | 5816
-Cyberpuerta | Electronics and software | ?
-Google | Electronics and software | 7311
-Nintendo (eShop) | Electronics and software | ?
-Steam | Electronics and software | 5816
-WinCDKeys.com | Electronics and software | 5734
-Boletomovil | Entretenimiento | 5964
-Fever * Candlelight Tri | Entretenimiento | 7922
-Ticketmaster | Entretenimiento | 7996
-TotalPass | Entretenimiento | ?
-Tu polideportivo | Entretenimiento | ?
-Trotime | Entretenimiento | 7941 | maratones
-Vidafel Lp (Cirque Du Soleil Joyá) | Entretenimiento | 7996
-Kigo - Parkimovil | Estacionamiento | 7523
-Farmacias del Ahorro | Farmacias | 5912
-Farmacias Regia | Farmacias | ?
-Farmacias San Francisco de Asís | Farmacias | 5912
-Farmacias Similares | Farmacias | 5912 | Web y tienda
-Multiviveros Cabrera | Flores | 5193
-Gas Oriente | Gas stations | 5541 | Gas LP
-Pemex | Gas stations | 5541
-SACMEX | Gobierno | 9311 | Secretaría de Administración y Finanzas
-Comex | Home and DIY | 5198
-Ferretería García | Home and DIY | 5251
-Home Depot | Home and DIY | 5311
-Joy Mia Amor Palma | Jewelry | 5944
-Marchand | Libros y papelería | 5943
-Sótano | Libros y papelería | 5942
-CFE | Luz | 4900 | Pagado desde app
-Cinépolis | Movie theaters | 7832
-EnvíosPerros | Otro | 4214
-Kidzania Ticket Online | Otro | 7032
-Ross dress for less | Otro | 5310
-Parco | Parking lots | 7523
-UnDosTres | Payments | 4814 
-Barril 23 | Restaurantes | ?
-Bisquets Obregón | Restaurantes | 5812
-Casa de Toño | Restaurantes | 5812
-Café Kowlaan | Restaurantes | ?
-Chilis | Restaurantes | 5812
-Cotorritos | Restaurantes | ?
-Denny's | Restaurantes | ?
-El portón | Restaurantes | ?
-Hooters | Restaurantes | 5812 
-Italiannis | Restaurantes | ?
-La buena tierra | Restaurantes | 5811
-Las Brasas | Restaurantes | 5812
-Pollo Feliz Apodaca | Restaurantes | 5812
-Rancho el 17 | Restaurantes | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
-Taquería Arandas | Restaurantes | ?
-Twin Peaks | Restaurantes | 5812
-Vips | Restaurantes | 5812 
-William shakes | Restaurantes | ?
-Wingstop | Restaurantes | 5812
-Aldo conty | Ropa | 5611
-Cuidado con el perro | Ropa | ?
-Dorothy Gaynor | Ropa | 5661
-Dportenis | Ropa | 5661
-Flexi | Ropa | 5661
-Lentes Galileo (Ben & Frank) | Ropa | 5961
-Men's Fashion | Ropa | 5611
-Parisina | Ropa | 5651
-Promoda | Ropa | 5621
-Shasa | Ropa | ?
-Shein | Ropa | 5651 | Si te lo marca como "General purchases" los contactas y aplican el cashback
-Afore Móvil | Servicios Financieros | 4814 | Compra tarjeta de regalo Amazon con Ganahorro |
-Piñatas Los Arcos | Souvenirs | 5947
-Decathlon | Sporting goods | 5941
-Bodega aurrerá | Supermercados | 5411
-CarneMart | Supermercados | ?
-Chedraui | Supermercados | 5411
-Justo | Supermercados | 7372
-Kiosko | Supermercados | 5499
-La comer | Supermercados | 5411 | Físico y online
-La esperanza | Supermercados | 5462
-Maskota G11 | Supermercados | 5441 | Central de abasto
-Miniso | Supermercados | 5422
-Office Depot | Supermercados | 5411
-Oxxo | Supermercados | 5499
-Seven eleven | Supermercados | ?
-Caffenio | Supermercados | 5812 | Sucursal en Hermosillo
-Soriana | Supermercados | 5411
-Sumesa | Supermercados | 5411
-Valenti Collezione | Supermercados | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
-7 Eleven | Supermercados | 5499
-Meli Mas | Suscripciones a medios | 5399
-Amazon Prime | Suscripciones | 4899
-Netflix | Suscripciones | 4899
-Scribd | Suscripciones | 4899
-Spotify | Suscripciones | 4816
-Tidal | Suscripciones | 5815 
-Youtube Premium | Suscripciones | 5818
-Didi Taxi | Taxi | 4121
-Uber | Taxi | 4121
-Movistar (app) | Telecommunication services | 4814
-Telmex (app) | Telecommunication services | 4814
-TotalPlay | Telecommunication services | ? | LikeU dió el 4% 
-Reino de Magos | Tiendas para niños | 5945 | Juegos de mesa y alimentos
-PaySend | Transferencias | 4829
-Conekta*Drive App | Transporte | 4784
-Conekta*Parco | Transporte | 4784
-Primera Plus | Transportation | 4722
-RTC Las Vegas | Transportation | 4111 | Accesos de bus en su app
-Tarjeta Mi | Transportation | 5966
-Vallarta plus | Transportation | 4111
-ADO | Viajes | 4131
-AirBnb | Viajes | 5399
-Supercell store | Videojuegos | ? | Didicard cashback
-JAPAC En línea | Water | 4900 | Compañía de Agua de Culiacán
-Agua de Hermosillo | Water | 4900 | Compañia operaradora Agua potable Hermosillo. Pagado desde APP "Mi Aguah"
-Nikkori Andenes Hermosillo | Fast Food | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
-Somos WIM | Compras en General | 5399 | Marca de telefonia digital de AT&T. Utilizan Mercadopago
-Elotes Make | Fastfood | 5814 | Hermosillo Quiroga
-Gua Guaus | Productos para Mascotas | 5995 | Hermosillo Pitic
-
+Categoría | Comercio | MCC | Nota
+--------- | -------- | --- | ----
+Aerolíneas | Aeroméxico | 3076
+Aerolíneas | Vivaaerobus | ? | Didicard cashback
+Apuestas y loterías | Tulotero | 4816
+Bakeries | Pastelería La Esperanza | 5462
+Beauty | Fraiche | 5977
+Beauty | Studio Frau Mann | 7230
+Car rental | Qeeq | 7512
+Car rental | Hertz web | 3357
+Celular, TV e internet | GitHub Copilot | 7372
+Celular, TV e internet | Izzi web | 4899
+Celular, TV e internet | Movistar | 5964 | Mercado Pago
+Celular, TV e internet | Starlink | 5399 | Si te aparece como ‘Internet’, contacta al servicio al cliente para que te apliquen el cashback.
+Celular, TV e internet | Telcel | 4814
+Celular, TV e internet | Telmex | 4814
+Celular, TV e internet | TotalPlay | 4814
+Cine | Cinépolis | 7832
+Cine | Cinépolis Dulcería | 7832
+Comida rápida | Burger king | 5814
+Comida rápida | Cielito querido café | 5814
+Comida rápida | Domino's Pizza | 5814
+Comida rápida | Elotes Make | 5814 | Hermosillo Quiroga
+Comida rápida | Garabatos | 5814
+Comida rápida | IHOP | 5814
+Comida rápida | KFC | ?
+Comida rápida | Little caesars | 5814
+Comida rápida | Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
+Comida rápida | Pizza hut | 5814 | Web y tienda física
+Comida rápida | Six flags | 5814 | Agua
+Comida rápida | Sonora Grill | 5814
+Comida rápida | Subway | ?
+Comida rápida | Sushi tako | 5814
+Comida rápida | Tacos El Pata | 5814
+Comida rápida | Taquearte | 5814
+Comida rápida | Taquería La Palmera | 5814
+Comida rápida | Tim Hortons | 5814
+Compras en general | AliExpress | 5199, 5311, 5964
+Compras en general | Amazon | 4816
+Compras en general | Bosch en linea | 5399
+Compras en general | Calii | 5399
+Compras en general | Coppel | 5311
+Compras en general | Del sol | 5311
+Compras en general | Deli and light | 5399
+Compras en general | Ebay | 5331
+Compras en general | El Palacio de Hierro | 5311
+Compras en general | Paypal | 5399
+Compras en general | Riot | 5399 | LoL RP
+Compras en general | Somos WIM | 5399 | Marca de telefonia digital de AT&T. Utilizan Mercadopago
+Compras en general | Suburbia | 5311
+Compras en general | Suempresa.com | 4816
+Compras en general | Temu | 7399
+Delivery services | DHL | 4215
+Delivery services | Rappi | 4121
+Delivery services | Uber eats | 4215
+Departamentales | Sanborns | 5311
+Departamentales | Sears | 5311 | Compra en fisico Hermosillo Galerias
+Departamentales | Suburbia | 5311
+Educación | Platzi Expert | 8299
+Educación | Udemy | 8999
+Electrónicos | App Store & ITunes (suscripción) | 5818
+Electrónicos | Claude.ai | 5734
+Electrónicos | NeWWW | 4814
+Electrónicos | OpenAI | 5734
+Electrónicos | Xbox | ? | En línea
+Electronics and software | Bitcodes.co | 5816
+Electronics and software | Cyberpuerta | ?
+Electronics and software | Google | 7311
+Electronics and software | Nintendo (eShop) | ?
+Electronics and software | Steam | 5816
+Electronics and software | WinCDKeys.com | 5734
+Entretenimiento | Boletomovil | 5964
+Entretenimiento | Fever * Candlelight Tri | 7922
+Entretenimiento | Ticketmaster | 7996
+Entretenimiento | TotalPass | ?
+Entretenimiento | Trotime | 7941 | maratones
+Entretenimiento | Tu polideportivo | ?
+Entretenimiento | Vidafel Lp (Cirque Du Soleil Joyá) | 7996
+Estacionamiento | Kigo - Parkimovil | 7523
+Estacionamiento | Parco | 7523
+Farmacias | Farmacias del Ahorro | 5912
+Farmacias | Farmacias Regia | ?
+Farmacias | Farmacias San Francisco de Asís | 5912
+Farmacias | Farmacias Similares | 5912 | Web y tienda
+Flores | Multiviveros Cabrera | 5193
+Gas stations | Gas Oriente | 5541 | Gas LP
+Gas stations | Pemex | 5541
+Gobierno | SACMEX | 9311 | Secretaría de Administración y Finanzas
+Home and DIY | Comex | 5198
+Home and DIY | Ferretería García | 5251
+Home and DIY | Home Depot | 5311
+Jewelry | Joy Mia Amor Palma | 5944
+Libros y papelería | Marchand | 5943
+Libros y papelería | Sótano | 5942
+Luz | CFE | 4900 | Pagado desde app
+Otro | EnvíosPerros | 4214
+Otro | Kidzania Ticket Online | 7032
+Otro | Ross dress for less | 5310
+Payments | UnDosTres | 4814
+Productos para Mascotas | Gua Guaus | 5995 | Hermosillo Pitic
+Restaurantes | Barril 23 | ?
+Restaurantes | Bisquets Obregón | 5812
+Restaurantes | Café Kowlaan | ?
+Restaurantes | Casa de Toño | 5812
+Restaurantes | Chilis | 5812
+Restaurantes | Cotorritos | ?
+Restaurantes | Denny's | ?
+Restaurantes | El portón | ?
+Restaurantes | Hooters | 5812
+Restaurantes | Italiannis | ?
+Restaurantes | La buena tierra | 5811
+Restaurantes | Las Brasas | 5812
+Restaurantes | Pollo Feliz Apodaca | 5812
+Restaurantes | Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
+Restaurantes | Taquería Arandas | ?
+Restaurantes | Twin Peaks | 5812
+Restaurantes | Vips | 5812
+Restaurantes | William shakes | ?
+Restaurantes | Wingstop | 5812
+Ropa | Aldo conty | 5611
+Ropa | Cuidado con el perro | ?
+Ropa | Dorothy Gaynor | 5661
+Ropa | Dportenis | 5661
+Ropa | Flexi | 5661
+Ropa | Lentes Galileo (Ben & Frank) | 5961
+Ropa | Men's Fashion | 5611
+Ropa | Parisina | 5651
+Ropa | Promoda | 5621
+Ropa | Shasa | ?
+Ropa | Shein | 5651 | Si te lo marca como "General purchases" los contactas y aplican el cashback
+Servicios Financieros | Afore Móvil | 4814 | Compra tarjeta de regalo Amazon con Ganahorro
+Souvenirs | Piñatas Los Arcos | 5947
+Sporting goods | Decathlon | 5941
+Supermercados | Bodega aurrerá | 5411
+Supermercados | Caffenio | 5812 | Sucursal en Hermosillo
+Supermercados | CarneMart | ?
+Supermercados | Chedraui | 5411
+Supermercados | Justo | 7372
+Supermercados | Kiosko | 5499
+Supermercados | La comer | 5411 | Físico y online
+Supermercados | La esperanza | 5462
+Supermercados | Maskota G11 | 5441 | Central de abasto
+Supermercados | Miniso | 5422
+Supermercados | Office Depot | 5411
+Supermercados | Oxxo | 5499
+Supermercados | Seven eleven | ?
+Supermercados | Soriana | 5411
+Supermercados | Sumesa | 5411
+Supermercados | Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
+Supermercados | 7 Eleven | 5499
+Suscripciones | Amazon Prime | 4899
+Suscripciones | Meli Mas | 5399
+Suscripciones | Netflix | 4899
+Suscripciones | Scribd | 4899
+Suscripciones | Spotify | 4816
+Suscripciones | Tidal | 5815
+Suscripciones | Youtube Premium | 5818
+Taxi | Didi Taxi | 4121
+Taxi | Uber | 4121
+Telecommunication services | Movistar (app) | 4814
+Telecommunication services | Telmex (app) | 4814
+Telecommunication services | TotalPlay | ? | LikeU dió el 4%
+Tiendas para niños | Reino de Magos | 5945 | Juegos de mesa y alimentos
+Transferencias | PaySend | 4829
+Transporte | Conekta*Drive App | 4784
+Transporte | Conekta*Parco | 4784
+Transporte | Primera Plus | 4722
+Transporte | RTC Las Vegas | 4111 | Accesos de bus en su app
+Transporte | Tarjeta Mi | 5966
+Transporte | Vallarta plus | 4111
+Viajes | ADO | 4131
+Viajes | AirBnb | 5399
+Videojuegos | Supercell store | ? | Didicard cashback
+Water | Agua de Hermosillo | 4900 | Compañia operaradora Agua potable Hermosillo. Pagado desde APP "Mi Aguah"
+Water | JAPAC En línea | 4900 | Compañía de Agua de Culiacán
