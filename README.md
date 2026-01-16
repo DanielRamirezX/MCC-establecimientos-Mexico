@@ -53,6 +53,7 @@ Para añadir nuevas líneas tienes dos opciones:
 
 - [Ropa](#ropa)
 - [Servicios Financieros](#servicios-financieros)
+- [Servicios Médicos](#servicios-medicos)
 - [Souvenirs](#souvenirs)
 - [Sporting goods](#sporting-goods)
 - [Supermercados](#supermercados)
@@ -398,7 +399,7 @@ Comercio | MCC | Nota
 Conekta*Drive App | 4784
 Conekta*Parco | 4784
 Primera Plus | 4722
-Redpay*Copemsa | 7523 | Estacionamientos Copemsa movil
+Redpay*Copemsa | 7523 | Estacionamientos Copemsa móvil
 RTC Las Vegas | 4111 | Accesos de bus en su app
 Tarjeta Mi | 5966
 Vallarta plus | 4111
